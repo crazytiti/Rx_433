@@ -6,4 +6,7 @@ Il fonctionne en mode non chiffré, donc ne pas utiliser sur des ouvrants de sé
 1 bouton pour supprimer toutes les télécommandes apprises
 1 sortie voyant Led
 4 pin dédiées à la commande d'un relai
-Utiliser avec un arduino pro micro ça doit fonctionner sans problème sur tous les arduino qui ont une entrée sur interuption.
+Utiliser avec un arduino pro micro ça doit fonctionner sans problème sur tous les arduino qui ont une entrée sur interruption.
+Pour compiler ne pas oublier la librairie rf-control : https://github.com/pimatic/RFControl
+
+![Installe](IMG_20211030_165524.jpg)
